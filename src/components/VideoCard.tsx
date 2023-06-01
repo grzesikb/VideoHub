@@ -19,7 +19,7 @@ const VideoCard = (props: IVideoCardProps) => {
         <CardMedia
           component="img"
           height={170}
-          image={props.img === '' ? './movie.jpg' : props.img}
+          image={props.img === '' ? './videohub/movie.jpg' : props.img}
           alt={props.img}
         />
         <div
