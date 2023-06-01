@@ -2,7 +2,6 @@
   "name": "videohub",
   "version": "0.1.0",
   "private": true,
-  "homepage": "/videohub",
   "dependencies": {
     "@emotion/react": "^11.11.0",
     "@emotion/styled": "^11.11.0",
