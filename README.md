@@ -89,6 +89,8 @@ npm start
 
 ![add_video](https://i.postimg.cc/Pq1S21Tf/Screenshot-3.jpg)
 
+## To see the application placed on the Azure server, contact me via e-mail
+
 ```
 contact@bartekgrzesik.pl
 ```
