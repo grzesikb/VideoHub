@@ -75,7 +75,7 @@ npm install
 npm start
 ```
 
-### Screens
+### Screenshots
 
 #### Main page
 
